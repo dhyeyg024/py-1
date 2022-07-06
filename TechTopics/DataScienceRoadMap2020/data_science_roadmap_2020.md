@@ -59,7 +59,7 @@ Following is a schedule to learn data science step by step considering **4 hours
 	- kudavenkat playlist (first 16): https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
 	- khanacademy SQL course: https://www.khanacademy.org/computing/computer-programming/sql
   
-* MongoDB 
+* Mongo
   - https://www.coursera.org/learn/introduction-mongodb
   
 ### Week 21, 22, 23, 24: BI tools
